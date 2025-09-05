@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="arb24.az" tvg-name="ARB 24" tvg-logo="tvg-logo=https://camo.githubusercontent.com/42a271ff3b381b9896d91ffee99b77065a6ccb764606a66d3d14b7dfb16cd6d7/68747470733a2f2f692e696d6775722e636f6d2f6d7476494679712e706e67" group-title="Azerbaijan", ARB 24
+http://85.132.81.184:8080/arb/live/index.m3u8
+
+#EXTINF:-1 tvg-id="arbgunes.az" tvg-name="ARB Günəş Ⓢ"tvg-logo=https://camo.githubusercontent.com/1ba9a04e7ef1af86da48b32e8419ffa48a1b4cedce7490f0f580c41b0cf19606/68747470733a2f2f692e696d6775722e636f6d2f645367374b554b2e706e67" group-title="Azerbaijan", ARB Günəş Ⓢ
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
+
+#EXTINF:-1 tvg-id="arb.az" tvg-name="ARB Ⓢ"tvg-logo="https://camo.githubusercontent.com/be2d6a6d7ed706b6431e3c7483de5052e4039ed6f780501846ccbcf56f12443c/68747470733a2f2f692e696d6775722e636f6d2f4539374d324f4c2e706e67" group-title="Azerbaijan", ARB Ⓢ
+http://109.205.166.68/server124/arb/index.m3u8
+
+#EXTINF:-1 tvg-id="azad.az" tvg-name="Azad TV Ⓢ"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Azad_Azerbaycan_TV_logosu.png" group-title="Azerbaijan", Azad TV Ⓢ
+https://www.tvkaista.net/stream-forwarder/get.php?x=ATVAz
